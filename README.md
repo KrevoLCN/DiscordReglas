@@ -1,1 +1,2 @@
 # DiscordReglas
+Patano es Puto
